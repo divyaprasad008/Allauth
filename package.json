@@ -1,0 +1,23 @@
+{
+  "name": "allauth",
+  "version": "1.0.0",
+  "description": "all kind of authorization",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/divyaprasad008/Allauth.git"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "author": "Divya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyaprasad008/Allauth/issues"
+  },
+  "homepage": "https://github.com/divyaprasad008/Allauth#readme"
+}
